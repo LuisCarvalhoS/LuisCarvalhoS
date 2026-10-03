@@ -10,6 +10,9 @@
 
 [![Tech Jobs](https://img.shields.io/badge/Tech%20Jobs-Explore%20platform-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://www.techjobs.space)
 <br>
+[![JSON Formatter](https://img.shields.io/badge/JSON%20Formatter-Format%20now-F59E0B?style=for-the-badge&logo=json&logoColor=white)](https://jsonformatter.tech)
+
+<br>
 <br>
 
 
